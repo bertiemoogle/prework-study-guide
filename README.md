@@ -2,7 +2,7 @@
 
 ## Description
 
-This was a project to prepare me for a front end web developer course. It was completed by following several modules covering HTML, CSS, Git and JavaScript, and gave me an insight into those subjects and how they are used in the construction of a webpage. I am now primed for the beginning of the course, and am no longer a complete novice - although there is a long way to go yet.
+This was a project to prepare me for a frontend web developer course. It was completed by following several modules covering HTML, CSS, Git and JavaScript, and gave me an insight into those subjects and how they are used in the construction of a webpage. I am now primed for the beginning of the course, and am no longer a complete novice - although there is a long way to go yet.
 
 
 ## Installation
