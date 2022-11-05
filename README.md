@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-The webpage contains notes on HTML, CSS, Git & JavaScript. Beneath the surface is a Javascript file, which can be seen funtioning in Google Chrome's Developer Tools console. 
+The webpage contains notes on HTML, CSS, Git & JavaScript. In the background a Javascript file is active, which can be seen functioning in Google Chrome's Developer Tools console. 
 
 ## Credits
 
